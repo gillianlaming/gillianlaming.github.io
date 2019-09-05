@@ -454,5 +454,13 @@ li{
 	margin-left: 15px;
 }
 
+#photo p{
+	text-align: center;
+	padding: 25%;
+	font-weight: bold;
+	color: #fff;
+	font-size: 3em;
+}
+
 
  
