@@ -136,6 +136,7 @@ body{
 	max-width: 65%;
 	font-size: 12pt;
 }
+
  #profpic{
 	height: 400px;
 	width: 290px;
@@ -226,7 +227,6 @@ body{
 	background-color: white;
 }
 #projects{
-	/* position: relative; */
 	width: 100%;
 	color: black;
 	padding-top: 10px;
