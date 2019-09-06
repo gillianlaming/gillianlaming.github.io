@@ -120,7 +120,7 @@ body{
 	/* top:0; */
 	overflow: hidden;
 	float:right;
-	white-space: b;
+	white-space: nowrap;
 	display: block;
 	/* max-width: 65%; */
 	margin-top: -35px;
