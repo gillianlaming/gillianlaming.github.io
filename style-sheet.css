@@ -413,6 +413,9 @@ body{
 #box4 {
 	background-image: url('public/malloc.gif');
 }
+#box7 {
+	background-image: url('public/ttt.png');
+}
 /* #box3:hover{
 	background-image: url('public/cal_caption.gif')
 } */
