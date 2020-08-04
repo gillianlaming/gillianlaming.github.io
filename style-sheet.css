@@ -416,7 +416,10 @@ body{
 #box7 {
 	background-image: url('public/ttt.png');
 	background-color: #fff;
-	border-color: black;
+}
+#box7:hover{
+	background-image: url('public/ttt_hover.png');
+	background-color: #fff;
 }
 #box8 {
 	background-image: url('public/go.png');
