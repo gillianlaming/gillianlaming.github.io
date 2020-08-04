@@ -424,6 +424,9 @@ body{
 #box8 {
 	background-image: url('public/go.png');
 }
+#box8:hover{
+	background-image: url('public/go_hover.png');
+}
 /* #box3:hover{
 	background-image: url('public/cal_caption.gif')
 } */
