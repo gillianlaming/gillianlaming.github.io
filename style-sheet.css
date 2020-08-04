@@ -415,6 +415,8 @@ body{
 }
 #box7 {
 	background-image: url('public/ttt.png');
+	background-color: #fff;
+	border-color: black;
 }
 #box8 {
 	background-image: url('public/go.png');
