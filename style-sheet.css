@@ -417,7 +417,10 @@ body{
 	background-image: url('public/malloc_hover.png');
 }
 #box5 {
-	background-image: url('public/cache1.png');
+	background-image: url('public/cache.png');
+}
+#box5:hover {
+	background-image: url('public/cache_hover.png');
 }
 #box6 {
 	background-image: url('public/sentiment.png');
