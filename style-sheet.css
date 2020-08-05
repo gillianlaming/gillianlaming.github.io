@@ -425,6 +425,9 @@ body{
 #box6 {
 	background-image: url('public/sentiment.png');
 }
+#box6:hover {
+	background-image: url('public/sentiment_hover.png');
+}
 #box7 {
 	background-image: url('public/ttt.png');
 	background-color: #fff;
