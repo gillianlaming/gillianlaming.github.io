@@ -420,13 +420,13 @@ body{
 	background-image: url('public/sentiment.png');
 }
 #box7 {
-	background-image: url('public/ttt.png');
+	background-image: url('public/TTT(1).png');
 	background-color: #fff;
 }
-#box7:hover{
+/* #box7:hover{
 	background-image: url('public/ttt_hover.png');
 	background-color: #fff;
-}
+} */
 #box8 {
 	background-image: url('public/go.png');
 }
