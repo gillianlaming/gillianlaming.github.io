@@ -413,6 +413,9 @@ body{
 #box4 {
 	background-image: url('public/malloc.png');
 }
+#box4:hover {
+	background-image: url('public/malloc_hover.png');
+}
 #box5 {
 	background-image: url('public/cache1.png');
 }
@@ -420,13 +423,13 @@ body{
 	background-image: url('public/sentiment.png');
 }
 #box7 {
-	background-image: url('public/TTT(2).png');
+	background-image: url('public/ttt.png');
 	background-color: #fff;
 }
-/* #box7:hover{
+#box7:hover{
 	background-image: url('public/ttt_hover.png');
 	background-color: #fff;
-} */
+}
 #box8 {
 	background-image: url('public/go.png');
 }
