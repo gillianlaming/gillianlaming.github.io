@@ -445,9 +445,11 @@ body{
 #box9 {
 	background-image: url('public/calendar.png');
 }
-/* #box3:hover{
-	background-image: url('public/cal_caption.gif')
-} */
+#box10 {
+	background-image: url('public/mappi.png');
+}
+
+
 .caption{
 	display: inline;
 	text-align: center;
