@@ -76,10 +76,12 @@
 #about-me #right-column a{
 	font-size: 12pt;
 	font-family: 'Roboto';
-	
 	text-decoration: none;
 	color: #546A7B;
 	letter-spacing: 1pt;
+}
+#about-me h3{
+
 }
 #about-me #right-column a:hover{
 	color:black;
@@ -285,7 +287,7 @@ body{
 	color: #2e2e2e;
 	/* text-decoration: underline; */
 	/* font-family: Roboto, sans-serif; */
-	font-family: merriweather,serif;
+	/* font-family: merriweather,serif; */
 	font-size: 1rem;
 	font-weight: 1;
 	letter-spacing: .01rem;
@@ -313,7 +315,6 @@ body{
 }
 #wrapper #left-column h3{
 	text-align: left;
-	font-family: merriweather,serif;
 	font-size: 18pt;
 	font-weight: 50;
 }
